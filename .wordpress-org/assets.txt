@@ -1,0 +1,11 @@
+Banners: 
+banner-772x250.png
+banner-1544x500.png
+
+Icons:
+icon-128x128.png
+icon-256x256.png
+
+Screenshots (width min. 609px):
+screenshot-1.png
+screenshot-2.png
